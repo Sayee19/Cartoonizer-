@@ -1,4 +1,5 @@
 # Cartoon
+I created a cartoonizer (2D image animator) by referencing the Image to Cartoon project on [ https://projectworlds.in/image-to-cartoon-python-opencv-machine-learning/ ], utilizing Python, OpenCV, and machine learning techniques for image transformation.
 
 ## Installation
 
